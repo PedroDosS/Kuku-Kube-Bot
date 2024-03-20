@@ -1,6 +1,7 @@
 # Kuku Kube Bot
 
-![Screenshot](https://github.com/PedroDosS/Swords-and-Souls-Bot/assets/90741843/3a635167-5ea6-4db8-86b3-11360560f9a3)
+https://github.com/PedroDosS/Kuku-Kube-Bot/assets/90741843/f5d92aaa-ce50-4a19-b51a-a4df0982eee6
+
 
 # About:
 Kuku Kube is a simple vision test game where the player must find and click as many differently
